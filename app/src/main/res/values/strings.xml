@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Umpire Buddy</string>
+    <string name="balls_label">Balls</string>
+    <string name="strikes_label">Strikes</string>
+    <string name="ball_button_text">Ball</string>
+    <string name="strike_button_text">Strike</string>
+    <string name="max_balls_message">Ball 4!</string>
+    <string name="max_strikes_message">Strike 3!</string>
+    <string name="max_balls_confirm">Take Your Base</string>
+    <string name="max_strikes_confirm">You\'re Out!</string>
+    <string name="count_format">%d</string>
+    <string name="alert_title">Hey Batter</string>
+</resources>
