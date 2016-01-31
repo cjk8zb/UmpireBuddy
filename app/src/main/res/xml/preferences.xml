@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--
+          Consider using @string references rather than
+          hard coded values.
+        -->
+    <PreferenceCategory android:title="@string/preference_category_tts">
+
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="@string/preference_announce_key"
+            android:summaryOff="@string/preference_announce_summary_off"
+            android:summaryOn="@string/preference_announce_summary_on"
+            android:title="@string/preference_announce_title"/>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
